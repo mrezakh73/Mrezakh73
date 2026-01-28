@@ -1,16 +1,58 @@
-## Hi there 👋
+## 👋 سلام، من محمدرضا خالدیان هستم
 
-<!--
-**mrezakh73/Mrezakh73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 کارآموز فرانت‌اند | علاقه‌مند به توسعه وب  
+💻 HTML • CSS • JavaScript • Tailwind  
+⚛️ React (مبتدی) | Vue (مبتدی)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 درباره من
+من کاردانی نرم‌افزار دارم و به‌صورت جدی در مسیر یادگیری و پیشرفت در حوزه Frontend Development هستم.  
+هدفم فعالیت به‌عنوان کارآموز در یک شرکت برنامه‌نویسی و کسب تجربه عملی در پروژه‌های واقعی و تیمی است.
+
+---
+
+## 🛠 مهارت‌های فنی
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- React (مبتدی)
+- Vue.js (مبتدی)
+- Git & GitHub
+- طراحی رابط کاربری واکنش‌گرا (Responsive UI)
+
+---
+
+## 📂 پروژه‌ها
+### 🔹 Expanding Cards
+- پیاده‌سازی کارت‌های تعاملی با JavaScript  
+- تکنولوژی‌ها: HTML, CSS, JavaScript  
+🔗 [مشاهده پروژه](https://github.com/mrezakh73/Expanding-Cards)
+
+### 🔹 Blurry Loading
+- پیاده‌سازی افکت بارگذاری صفحه  
+- تکنولوژی‌ها: HTML, CSS  
+🔗 [مشاهده پروژه](https://github.com/mrezakh73/Blurry-Loading)
+
+---
+
+## 🎓 تحصیلات و آموزش
+- کاردانی نرم‌افزار  
+- بوت‌کمپ Bootstrap (طراحی و پیاده‌سازی رابط کاربری)
+
+---
+
+## 🌍 زبان‌ها
+- کردی (مادری)
+- فارسی (روان)
+- انگلیسی (مطالعه مستندات فنی)
+
+---
+
+## 📫 راه‌های ارتباطی
+- 📧 Email: mrezakhaledian@gmail.com  
+- 📱 Phone: 09397072353  
+
+---
+
+⭐ اگر پروژه‌ها براتون مفید بود، خوشحال می‌شم Star بدید!
